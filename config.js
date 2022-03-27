@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281227144597', 'ozan', true],
+  ['48729759866', 'ozan', true],
   //['6281227144597']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
